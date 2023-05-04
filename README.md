@@ -35,6 +35,8 @@
 4. 변경1
 5. 변경2
 6. 변경3
+7. gjkdfiegjkd
+8. gjkdlfjwigdl
 
 ### git type
 
